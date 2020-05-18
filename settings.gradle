@@ -1,0 +1,3 @@
+rootProject.name='JustTest'
+include ':app'
+include ':sqlite'
